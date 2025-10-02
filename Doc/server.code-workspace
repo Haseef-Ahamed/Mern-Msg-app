@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "server",
+			"path": "../server"
+		},
+		{
+			"name": "Mern-Msg-app",
+			"path": "../../../../Documents/GitHub/Mern-Msg-app"
+		},
+		{
+			"name": "client",
+			"path": "../client"
+		},
+		{
+			"name": "Doc",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
