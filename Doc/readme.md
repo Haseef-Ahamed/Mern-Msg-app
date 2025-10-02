@@ -33,3 +33,19 @@
 > ## Host the frontend using the vercel
 >> - Import the source files from git repo
 >>> ![alt text](image-9.png)
+
+> ## Push the Code to GitHub 
+>> ![alt text](image-10.png)
+
+> ## Deploying the frontend in Vercel
+>> ![alt text](image-11.png)
+
+>> ## Verified the Hosting Frontend
+>>> ![alt text](image-12.png)
+
+> **Error**
+>> - When we try to access the Database using the browser. its not appear here. 
+>>> ![alt text](image-13.png)
+>> - so we need to create a file vercel.json to overwrite the croute configuration. and put the some source code.
+
+
