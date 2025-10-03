@@ -46,6 +46,41 @@
 > **Error**
 >> - When we try to access the Database using the browser. its not appear here. 
 >>> ![alt text](image-13.png)
+
 >> - so we need to create a file vercel.json to overwrite the croute configuration. and put the some source code.
+>> - then push the code to git repo. the Deployment is running Automatically.
+>>> ![alt text](image-14.png)
 
+> ## Host the Backend using the render Service
+>> - Login the Render using the Mail.
 
+>> - Select the **web service** to host the backend.
+>>> ![alt text](image-15.png)
+
+>> - Select the public Repo from github
+>>> ![alt text](image-16.png)
+
+>> - Enter the Proper name of this project
+>> - set the root Directory into our project.
+>> - enter the build and start command of backend.
+>>> ![alt text](image-17.png)
+
+>> - Set the Env veriables of the DB server and frontend application URL too. in backend service provider.
+>>> ![alt text](image-18.png)
+
+>> - Then Redeploy the Backend provider.
+
+>> - Copy the URL of the backend. then Go to frontend provider.
+>> - Add the URL in frontend environment.
+>>> ![alt text](image-19.png)
+
+>> - Redeploy the backend as manually. 
+
+>> - Mern stack application is completly Working
+>>> ![alt text](image-20.png)
+
+>>> ![alt text](image-21.png)
+
+>>> ![alt text](image-22.png)
+
+>>> ![alt text](image-23.png)
